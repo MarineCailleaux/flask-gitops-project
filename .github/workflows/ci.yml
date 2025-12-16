@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: VOTRE_DOCKERHUB_USER/flask-app:latest
+          tags: nalurka/flask-app:latest
